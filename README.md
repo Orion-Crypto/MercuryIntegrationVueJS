@@ -6,7 +6,7 @@ This repository serves as an example to showcase how you can embed Mercury Chat 
 
 ## Integration
 
-To get Mercury Chat in your application, we will need to install the [Mercury Chat React Package](https://www.npmjs.com/package/@mercury-chat/react-chat):
+To get Mercury Chat in your application, we will need to install the [Mercury Chat Vue Package](https://www.npmjs.com/package/@mercury-chat/vue-chat):
 
 ```bash
 npm install @mercury-chat/vue-chat
