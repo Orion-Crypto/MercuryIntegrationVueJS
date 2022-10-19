@@ -2,7 +2,7 @@ This is a [VueJS](https://vuejs.org/) project that integrates [Mercury Chat](htt
 
 This repository serves as an example to showcase how you can embed Mercury Chat into your Cardano DAPP. This example works for both Typescript and Javascript frontends.
 
-</br />
+<br />
 
 ## Integration
 
@@ -33,12 +33,20 @@ And we're done! Congratulations you have successfully added Mercury Chat to your
 
 <br />
 
+![VueFullscreen](https://user-images.githubusercontent.com/17760631/196582729-2abdbf0b-b8b6-4787-bb9a-d96579f3fa72.PNG)
+
+<br />
+
 ## Options
 There are some options allow you to customize the Mercury Chat experience. Below is an example of the options that can be used. The full option documentation can be found in the [Mercury Chat NPM Page](https://www.npmjs.com/package/@mercury-chat/vue-chat)
 
 ```
 <MercuryChat position='bottom-right' :hasFullscreen='false' :showBackground='false' />
 ```
+
+<br />
+
+![VueSmallscreen](https://user-images.githubusercontent.com/17760631/196582751-3f1cca0a-ff06-40c6-80ab-c2c3912bdc13.PNG)
 
 <br />
 
