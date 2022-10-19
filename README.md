@@ -24,7 +24,7 @@ import '@mercury-chat/vue-chat/dist/mercury-chat.css'; // CSS import required
 createApp(App).use(plugin).mount('#app') // We need to add the .use(plugin)
 ```
 
-App.vue file:
+App.vue:
 ```
 <MercuryChat />
 ```
